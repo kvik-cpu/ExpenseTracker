@@ -22,8 +22,11 @@ Expense Tracker is a console-based application developed using C programming to 
 
 ## Program Menu
 1.Add Expense
+
 2.View Expense
+
 3.Total Expense
+
 4.Exit
 
 
